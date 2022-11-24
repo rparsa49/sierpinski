@@ -1,0 +1,1 @@
+a sierpinski triangle maker. run the file and watch the triangle come to life!
